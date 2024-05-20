@@ -24,4 +24,3 @@ export function renderToCanvas(svg: string, width: number, height: number): Prom
  * @returns A promise that resolves to a data URL representing the PNG image.
  */
 export function svgFileToPngBuffer(filePath: string, width?: number, height?: number): Promise<string>;
-   export function svgFileToPngBuffer(filePath: string): Promise<string>;
