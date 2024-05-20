@@ -1,4 +1,4 @@
-# SVG to PNG Converter
+# SVG to PNG Buffer
 
 This package provides a simple utility function to convert SVG files to PNG format using Node.js. It utilizes the `canvas` library to handle the image conversion.
 
@@ -7,7 +7,7 @@ This package provides a simple utility function to convert SVG files to PNG form
 Before installing, make sure you have Node.js installed on your machine. Then, you can install the package using npm:
 
 ```bash
-npm install svg-to-png-converter
+npm install svg-to-png-buffer
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install svg-to-png-converter
 Here's how you can use the `svgFileToPngBuffer` function to convert an SVG file to a PNG buffer:
 
 ```javascript
-import { svgFileToPngBuffer } from 'svg-to-png-converter';
+import { svgFileToPngBuffer } from 'svg-to-png-buffer';
 
 async function convertSvgToPng() {
   try {
