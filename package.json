@@ -1,0 +1,23 @@
+{
+  "name": "svg-to-png-converter",
+  "version": "1.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "description": "Convert SVG files to PNG format",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "png",
+    "converter"
+  ],
+  "author": "Carl Handy",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
