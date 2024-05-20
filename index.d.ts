@@ -1,4 +1,5 @@
 // Type definitions for index.js
+import { Canvas } from 'canvas';
 
 /**
  * Reads an SVG file and returns its content as a string.
