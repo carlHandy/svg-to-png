@@ -36,7 +36,6 @@ convertSvgToPng();
 ## Requirements
 
 - Node.js
-- `canvas` npm package
 
 ## License
 
