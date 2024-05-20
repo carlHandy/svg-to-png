@@ -15,7 +15,7 @@ npm install canvas
 Here's how you can use the `svgFileToPngBuffer` function to convert an SVG file to a PNG buffer:
 
 ```javascript
-const svgFileToPngBuffer = require('./index');
+import { svgFileToPngBuffer } from 'svg-to-png-converter';
 
 async function convertSvgToPng() {
   try {
