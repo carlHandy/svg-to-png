@@ -7,7 +7,7 @@ This package provides a simple utility function to convert SVG files to PNG form
 Before installing, make sure you have Node.js installed on your machine. Then, you can install the package using npm:
 
 ```bash
-npm install canvas
+npm install svg-to-png-converter
 ```
 
 ## Usage
